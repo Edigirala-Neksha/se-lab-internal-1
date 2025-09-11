@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h1>login successful</h1>
+<h1>login page</h1>
+<form>
+            <label for="email">Email ID:</label><br>
+            <input type="email" id="email" name="email" required><br>
+            <button type="submit">login</button><br>
+</form>
 </body>
 </html>
